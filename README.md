@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tomasbogado203-bit&style=for-the-badge&color=0284c7&label=PROFILE+VIEWS" />
   <img src="https://img.shields.io/badge/Location-Argentina-0080FF?style=for-the-badge&logo=google-maps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Cloud%20Automation-blueviolet?style=for-the-badge&logo=target" />
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&logo=github" />
 </p>
 
@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate **Fullstack Developer & AI Systems Engineer** specializing in modern web architectures, autonomous cloud scrapers, and AI-driven pedagogical systems.
+I am a **Fullstack Developer & AI Systems Engineer** specializing in modern web applications, autonomous cloud scraping engines, and AI-driven pedagogical systems.
 
 - 🎓 **Creator of [UniNav](https://github.com/tomasbogado203-bit/uninav):** An intelligent, Socratic RAG platform built to support university students across Argentina.
 - ☁️ **Apify Store Developer:** Architect of 10+ cloud data extractors and automation tools in Python & Crawlee.
@@ -36,7 +36,7 @@ I am a passionate **Fullstack Developer & AI Systems Engineer** specializing in 
 
 <br/>
 
-### 🗄️ Backend, Databases & AI
+### 🗄️ Backend, Databases & Cloud
 <img src="https://skillicons.dev/icons?i=supabase,postgres,docker,git,github,vscode,linux,powershell" />
 
 </div>
@@ -76,15 +76,17 @@ I am a passionate **Fullstack Developer & AI Systems Engineer** specializing in 
 
 ---
 
-## 📊 GitHub Statistics
+## 📈 Activity & Key Metrics
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Public%20Repos-18+-blue?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apify%20Actors-10%20Live-brightgreen?style=for-the-badge&logo=apify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Main%20Stack-Next.js%20%7C%20Python%20%7C%20AI-blueviolet?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tests%20Coverage-100%25%20Verified-success?style=for-the-badge&logo=pytest&logoColor=white" />
+</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tomasbogado203-bit&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasbogado203-bit&layout=compact&theme=radical&hide_border=true" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tomasbogado203-bit&theme=radical&hide_border=true" width="96%" />
+  <img src="https://streak-stats.demolab.com/?user=tomasbogado203-bit&theme=radical&hide_border=true" width="90%" />
 </div>
 
 ---
