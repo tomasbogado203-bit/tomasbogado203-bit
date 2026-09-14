@@ -21,9 +21,8 @@
 I am a **Fullstack Developer & AI Systems Engineer** specializing in modern web applications, autonomous cloud scraping engines, and AI-driven pedagogical systems.
 
 - 🎓 **Creator of [UniNav](https://github.com/tomasbogado203-bit/uninav):** An intelligent, Socratic RAG platform built to support university students across Argentina.
-- ☁️ **Apify Store Developer:** Architect of 10+ cloud data extractors and automation tools in Python & Crawlee.
 - ⚡ **Web3 & Open Source Contributor:** Contributed to blockchain payment infrastructure on Stellar Soroban ([OphirPay](https://github.com/OphirPay/OphirPay), [MisakaNet](https://github.com/Ikalus1988/MisakaNet)).
-- 🛠️ **Core Philosophy:** Clean code, deterministic test suites, and high-leverage software.
+
 
 ---
 
