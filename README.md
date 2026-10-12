@@ -89,8 +89,3 @@ I am a **Fullstack Developer & AI Systems Engineer** specializing in modern web 
 </div>
 
 ---
-
-<div align="center">
-  <p><i>"The best way to predict the future is to invent it."</i></p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,6&height=100&section=footer" width="100%"/>
-</div>
